@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">A1_COMP_3606</string>
+    <string name="topbutton">WifiConnect</string>
+    <string name="seller">Seller</string>
+    <string name="amount">Amount</string>
+    <string name="Item">Item</string>
+    <string name="Marketplace">Marketplace</string>
+    <string name="Save">Save</string>
+</resources>
